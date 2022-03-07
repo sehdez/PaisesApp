@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+tbody tr td img {
+    width:  50px;
+    border-radius: 3px;
+
+}
+img.img-ver{
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+
+body{
+    background: #f2f2f2;;
+}
